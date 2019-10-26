@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: profiles
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: madandale
+Implementation-Vendor-Id: com.sovanm
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/profiles
+Created-By: Maven Integration for Eclipse
+
